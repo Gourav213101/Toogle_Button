@@ -58,6 +58,10 @@ label:active::after{
 input:checked + label + .background{
     background: #242424;
 }
+
+.gorav {
+    background-color: black;
+}
 label img{
     position:absolute;
     width:120px;
